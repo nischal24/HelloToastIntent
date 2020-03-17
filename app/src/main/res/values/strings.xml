@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloToastIntent</string>
+    <string name="button__toast">SAY HELLO</string>
+    <string name="button__count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Toast is Ready</string>
+    <string name="return_button">Back</string>
+</resources>
